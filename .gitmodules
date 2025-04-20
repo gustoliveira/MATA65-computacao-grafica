@@ -1,0 +1,15 @@
+[submodule "Assets"]
+	path = Assets
+	url = git@github.com:aapolinariojr/Assets.git
+[submodule "lab01-three-js-basico"]
+	path = lab01-three-js-basico
+	url = git@github.com:MATA65-ComputacaoGrafica-2025-1/lab01-three-js-basico-gustoliveira.git
+[submodule "lab02-imagem-pixels-cores-shaders"]
+	path = lab02-imagem-pixels-cores-shaders
+	url = git@github.com:MATA65-ComputacaoGrafica-2025-1/lab02-imagem-pixels-cores-shaders-gustoliveira.git
+[submodule "lab03a-representacao-obj-3d"]
+	path = lab03a-representacao-obj-3d
+	url = git@github.com:MATA65-ComputacaoGrafica-2025-1/lab03a-representacao-obj-3d-gustoliveira.git
+[submodule "lab03b-modelos-poligonais"]
+	path = lab03b-modelos-poligonais
+	url = git@github.com:MATA65-ComputacaoGrafica-2025-1/lab03b-modelos-poligonais-gustoliveira.git
