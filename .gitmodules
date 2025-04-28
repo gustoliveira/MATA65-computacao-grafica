@@ -13,3 +13,6 @@
 [submodule "lab03b-modelos-poligonais"]
 	path = lab03b-modelos-poligonais
 	url = git@github.com:MATA65-ComputacaoGrafica-2025-1/lab03b-modelos-poligonais-gustoliveira.git
+[submodule "lab04-acompanhamento-de-raios"]
+	path = lab04-acompanhamento-de-raios
+	url = git@github.com:MATA65-ComputacaoGrafica-2025-1/lab04-acompanhamento-de-raios-gustoliveira.git
