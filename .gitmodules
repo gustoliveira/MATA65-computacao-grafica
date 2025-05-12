@@ -16,3 +16,13 @@
 [submodule "lab04-acompanhamento-de-raios"]
 	path = lab04-acompanhamento-de-raios
 	url = git@github.com:MATA65-ComputacaoGrafica-2025-1/lab04-acompanhamento-de-raios-gustoliveira.git
+[submodule "lab05-transformacoes-geometricas"]
+	path = lab05-transformacoes-geometricas
+	url = git@github.com:MATA65-ComputacaoGrafica-2025-1/lab05-transformacoes-geometricas-gustoliveira.git
+[submodule "lab05a-transformacoes-geometricas"]
+	path = lab05a-transformacoes-geometricas
+	url = git@github.com:MATA65-ComputacaoGrafica-2025-1/lab05a-transformacoes-geometricas-gustoliveira.git
+[submodule "lab06-sistema-de-visualizacao"]
+	path =lab06-sistema-de-visualizacao 
+	url = git@github.com:MATA65-ComputacaoGrafica-2025-1/lab06-sistema-de-visualizacao-gustoliveira.git
+
